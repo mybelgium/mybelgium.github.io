@@ -1,2 +1,1 @@
-# mybelgium.github.io
-My Belgium
+# My Belgium
